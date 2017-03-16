@@ -1,0 +1,28 @@
+{
+    "integrationUser": {
+        "systemAdmin": false
+    },
+    "tiles": [
+        {
+            "displayName": "Google Forms Tile",
+            "name": "google-forms",
+            "description": "Tile for embedding a Google Forms form",
+            "style": "CUSTOM_VIEW",
+            "displayWidth": "ALL",
+            "dataProviderKey": "internal",
+            "pageTypes": [
+                "PLACE",
+                "USER",
+                "NEWS",
+                "MOBILE"
+            ],
+            "icons": {
+                "16": "extension-16.png",
+                "48": "extension-48.png",
+                "128": "extension-128.png"
+            },
+            "config": "/public/tiles/google-forms/configuration.html?ts=1489697225090",
+            "view": "/public/tiles/google-forms/view.html?ts=1489697225090"
+        }
+    ]
+}

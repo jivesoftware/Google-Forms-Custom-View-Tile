@@ -1,0 +1,20 @@
+{
+    "clientUrl": "http://localhost",
+    "port": "8090",
+    "development" : true,
+	"clientUrlExcludesPort": true,
+	"extensionInfo": {
+		"id": "a859195e-fd2d-40d6-8ad0-57a2cd8f7a9b",
+		"uuid": "a859195e-fd2d-40d6-8ad0-57a2cd8f7a9b",
+		"name": "Google-Forms",
+		"description": "Tile for embedding a Google Forms form",
+		"icon_16": "extension-16.png",
+		"icon_48": "extension-48.png",
+		"icon_128": "extension-128.png",
+		"releasedOn": "2016-01-14T00:06:31.480Z",
+        "author" : "Rashed Talukder",
+        "author_affiliation" : "Jive Software, Inc.",
+		"author_email": "rashed.talukder@jivesoftware.com",
+		"eula_filename": "eula.html"
+	}
+}

@@ -1,0 +1,18 @@
+{
+    "package_version": "1.0",
+    "id": "a859195e-fd2d-40d6-8ad0-57a2cd8f7a9b",
+    "type": "client-app",
+    "name": "Google-Forms",
+    "description": "Tile for embedding a Google Forms form",
+    "minimum_version": "0080300000",
+    "icon_16": "extension-16.png",
+    "icon_48": "extension-48.png",
+    "icon_128": "extension-128.png",
+    "redirect_url": "%serviceURL%",
+    "released_on": "2016-01-14T00:06:31.480Z",
+    "service_url": "http://localhost",
+    "author": "Rashed Talukder",
+    "author_affiliation": "Jive Software, Inc.",
+    "author_email": "rashed.talukder@jivesoftware.com",
+    "eula_filename": "eula.html"
+}
